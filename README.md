@@ -1,3 +1,13 @@
+<!-- Technology Stack Badges -->
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-Model-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Imutils](https://img.shields.io/badge/Imutils-Utility-orange)
+
 Face Mask Detection System
 
 A deep learning-powered application to detect whether a person is wearing a face mask in real-time using image or video streams. The system uses a fine-tuned MobileNetV2 model, built with TensorFlow and OpenCV, and supports both image-based and video-based detection.
